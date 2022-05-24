@@ -2,7 +2,7 @@
 
 this is project for learn vue3 typescript + gql + tailwind + pinia
 
-## Graph API
+## Graphql API
 
 we using jsonplaceholder [graphqlzero](https://graphqlzero.almansi.me/#example-top)
 
